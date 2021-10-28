@@ -1,0 +1,42 @@
+body{
+    background-color:cadetblue;
+    text-align: justify;
+    font-style: italic;
+    border-image: round;
+    background-image: -moz-radial-gradient()
+    };
+h1{
+   color: cornsilk;
+    stroke-dasharray: 0em
+}
+header{
+    margin-block-end: 0pc;
+    text-align: center;
+    box-sizing: content-box;
+    background-color: lavender;
+    nav-left: auto;
+    color: darkmagenta;
+    
+}
+ .note{
+color: black;
+};
+ .myclass{
+     color:black;
+     
+ };
+ html{
+     color: black;
+     text-align: left;
+     transition: step-start;
+ };
+input{
+    color: black;
+    align-items: flex-start;
+    text-align: lefts;
+}
+
+
+button{
+    background-color: rgb(236, 63, 10);
+}
